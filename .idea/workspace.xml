@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="80dfdc5c-b19d-4928-a741-90921ad04f7a" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_blame.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-adv1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/bounded/BoundedMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/bounded/BoundedQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/bounded/BoundedQueueV1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/bounded/BoundedQueueV2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/bounded/BoundedQueueV3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/bounded/BoundedQueueV4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/bounded/BoundedQueueV5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/bounded/BoundedQueueV6_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/bounded/BoundedQueueV6_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/bounded/BoundedQueueV6_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/bounded/BoundedQueueV6_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/bounded/ConsumerTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/bounded/ProducerTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/cas/CasMainV1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/cas/CasMainV2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/cas/CasMainV3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/cas/increment/BasicInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/cas/increment/IncrementInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/cas/increment/IncrementPerformanceMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/cas/increment/IncrementThreadMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/cas/increment/MyAtomicInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/cas/increment/SyncInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/cas/increment/VolatileInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/cas/spinlock/SpinLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/cas/spinlock/SpinLockBad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/cas/spinlock/SpinLockMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/collection/java/ListMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/collection/java/MapMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/collection/java/SetMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/collection/java/SynchronizedListMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/collection/simple/SimpleListMainV0.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/collection/simple/list/BasicList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/collection/simple/list/SimpleList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/collection/simple/list/SimpleListMainV1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/collection/simple/list/SimpleListMainV2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/collection/simple/list/SyncList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/collection/simple/list/SyncProxyList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/control/CheckedExceptionMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/control/ThreadInfoMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/control/ThreadStateMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/control/interrupt/ThreadStopMainV1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/control/interrupt/ThreadStopMainV2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/control/interrupt/ThreadStopMainV3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/control/interrupt/ThreadStopMainV4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/control/join/JoinMainV0.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/control/join/JoinMainV1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/control/join/JoinMainV2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/control/join/JoinMainV3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/control/join/JoinMainV4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/control/printer/MyPrinterV1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/control/printer/MyPrinterV2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/control/printer/MyPrinterV3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/control/printer/MyPrinterV4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/control/test/JoinTest1Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/control/test/JoinTest2Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/control/yield/YieldMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/executor/CallableTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/executor/ExecutorBasicMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/executor/ExecutorShutdownMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/executor/ExecutorUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/executor/PrestartPoolMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/executor/RunnableTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/executor/future/CallableMainV1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/executor/future/CallableMainV2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/executor/future/FutureCancelMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/executor/future/FutureExceptionMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/executor/future/InvokeAllMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/executor/future/InvokeAnyMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/executor/future/RunnableMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/executor/future/SumTaskMainV1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/executor/future/SumTaskMainV2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/executor/future/SumTaskMainV2_Bad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/executor/poolsize/PoolSizeMainV1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/executor/poolsize/PoolSizeMainV2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/executor/poolsize/PoolSizeMainV3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/executor/poolsize/PoolSizeMainV4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/executor/reject/RejectMainV1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/executor/reject/RejectMainV2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/executor/reject/RejectMainV3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/executor/reject/RejectMainV4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/executor/test/NewOrderService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/executor/test/NewOrderServiceTestMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/executor/test/OldOrderService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/executor/test/OldOrderServiceTestMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/start/BadThreadMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/start/DaemonThreadMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/start/HelloRunnable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/start/HelloRunnableMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/start/HelloThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/start/HelloThreadMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/start/InnerRunnableMainV1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/start/InnerRunnableMainV2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/start/InnerRunnableMainV3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/start/InnerRunnableMainV4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/start/ManyThreadMainV1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/start/ManyThreadMainV2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/start/test/StartTest1Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/start/test/StartTest2Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/start/test/StartTest3Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/start/test/StartTest4Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/sync/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/sync/BankAccountV1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/sync/BankAccountV2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/sync/BankAccountV3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/sync/BankAccountV4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/sync/BankAccountV5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/sync/BankAccountV6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/sync/BankMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/sync/WithdrawTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/sync/lock/LockSupportMainV1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/sync/lock/LockSupportMainV2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/sync/test/SyncTest1BadMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/sync/test/SyncTest1Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/sync/test/SyncTest2Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/volatile1/VolatileCountMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/volatile1/VolatileFlagMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/util/MyLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/util/MyLoggerMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/util/ThreadUtils.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2w1eY85WRVjLwnshhyugkiY4404" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/cocu7/Desktop/study/java-adv1",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "MTConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-19.0.2-corretto-19.0.2-4caba194b151-48ba4555" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="80dfdc5c-b19d-4928-a741-90921ad04f7a" name="변경" comment="" />
+      <created>1745213552701</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1745213552701</updated>
+      <workItem from="1745213554555" duration="742000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
