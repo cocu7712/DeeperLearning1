@@ -1,11 +1,15 @@
 package util;
 
-import static util.MyLogger.*;
+import thread.start.HelloThread;
 
-public class MyLoggerMain {
+import java.time.LocalDateTime;
+import java.time.format.DateTimeFormatter;
+
+public abstract class MyLoggerMain {
 
     public static void main(String[] args) {
-        log("hello thread");
-        log(123);
+        MyLogger.log("hello thread");
+        MyLogger.log(123);
+
     }
 }

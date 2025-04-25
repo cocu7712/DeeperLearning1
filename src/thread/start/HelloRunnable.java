@@ -1,9 +1,9 @@
 package thread.start;
 
-public class HelloRunnable implements Runnable {
-
+public class HelloRunnable extends Thread {
     @Override
-    public void run() {
-        System.out.println(Thread.currentThread().getName() + ": run()");
+    public void run(){
+        System.out.println(Thread.currentThread().getName() + ":: run() ");
     }
+
 }
