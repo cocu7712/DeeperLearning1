@@ -13,17 +13,23 @@ public class example1_3 {
 
     public static void main(String[] args) {
         /* Thread Create */
-        new Thread(new roopRunnableA(), "Thread-A").start();
-        new Thread(new roopRunnableB(), "Thread-B").start();
+        new Thread(new roopRunnable(1000), "Thread-A").start();
+        new Thread(new roopRunnable(500), "Thread-B").start();
     }
 
-    static class roopRunnableA implements Runnable{
+    static class roopRunnable implements Runnable{
+        int time;
+
+        public roopRunnable(int time){
+            this.time = time;
+        }
+
         @Override
         public void run() {
             int i = 1;
             while (true){
                 try {
-                    sleep(1000);
+                    sleep(this.time);
                     log("value : " + i++);
                 } catch (InterruptedException e) {
                     throw new RuntimeException(e);
@@ -32,19 +38,5 @@ public class example1_3 {
         }
     }
 
-    static class roopRunnableB implements Runnable{
-        @Override
-        public void run() {
-            int i = 1;
-            while (true){
-                try {
-                    sleep(500);
-                    log("value : " + i++);
-                } catch (InterruptedException e) {
-                    throw new RuntimeException(e);
-                }
-            }
-        }
-    }
 
 }
